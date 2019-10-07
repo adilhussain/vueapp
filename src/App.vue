@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    Wassupp badola JEE ;)
+    Testing for Invalidation.
     <router-view/>
   </div>
 </template>
